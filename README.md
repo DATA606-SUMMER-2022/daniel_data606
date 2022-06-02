@@ -1,2 +1,2 @@
 # daniel_data606
-capstone repo
+capstone repo; Dr. Jay Wang
